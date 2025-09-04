@@ -5,8 +5,9 @@ Vanity URL name
 <h2>Certifications</h2>
 1. -[ALX AI COHORT PROGRAM]
 ("https://savanna.alxafrica.com/certificates/B3sr8nXFyJ)
+
 2. TATA CYBERSECURITY ANALYST
-(
+(file:///C:/Users/Arise%20and%20shine/OneDrive/Documents/FORAGE/TATA%20CYBERSECURITY/TATA%20ANALYST%20JOB%20SIMULATION%20CERT.pdf)
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 </a> CYBERSECURITY LAWS AND POLICIES SOFTWARE APPLICATION<a>
