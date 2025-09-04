@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1>Hi, I'm Samuel <br/><a href="" href=www.linkedin.com/in/samuel-mwangi-214464259
+Vanity URL name
+>Cybersecurity Analyst,Engineer , IT consultant, Graphic designer</a>, <a href="https://www.canva.com/design/DAGP4GsyhW0/ahcSab4YgilGgFpwNIVPBQ/view?utm_content=DAGP4GsyhW0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heee4922511">designer</a></h1>
 
-<!--
-**sam-codemwas/sam-codemwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Certifications</h2>
+1. -[ALX AI COHORT PROGRAM]
+("https://savanna.alxafrica.com/certificates/B3sr8nXFyJ)
+2. TATA CYBERSECURITY ANALYST
+(
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Cybersecurity  Projects:</h2>
+</a> CYBERSECURITY LAWS AND POLICIES SOFTWARE APPLICATION<a>
+  <a/> PERFORM COMPUTER NETWORKING<a> 
+<h2>Graphic design projects</H2>
+</a>RUNJIWORLD PORTFOLIO</a>
+href="://www.canva.com/design/DAGP4GsyhW0/ahcSab4YgilGgFpwNIVPBQ/view?utm_content=DAGP4GsyhW0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heee4922511"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</a>REGALIA LUXE</a>
+"https://www.canva.com/design/DAGeto4STXw/1F5oCPHF1w9cPUnjkbkk6g/edit?utm_content=DAGeto4STXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Samuel Mwangi | LinkedIn" width="22px" src="https://www.linkedin.com/in/samuel-mwangi-214464259" />][linkedin]
+
+[linkedin]: "https://www.linkedin.com/in/samuel-mwangi-214464259"
+
